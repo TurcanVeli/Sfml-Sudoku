@@ -4,5 +4,5 @@
 
 My first Sfml project.
 
-There is nothing clever. I used backtracking algorith to solve sudoku. ıt means brute-force.
+There is nothing clever. I used backtracking algorithm to solve sudoku. ıt means brute-force.
 
