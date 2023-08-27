@@ -240,30 +240,12 @@ void Game::fillTable()
 }
 
 
-void Game::printBoard()
-{
-	for (int i =0; i<9; i++)
-	{
-		for (int j = 0; j < 9; j++)
-		{
-			std::cout << this->sudoku->board->at(i).at(j)<< " ";
 
-		}
-		std::cout<< std::endl;
-	}
-	std::cout << "            " << std::endl;
-
-}
 
 bool Game::isGameFinished()
 {	
 	return false;
 }
-
-
-
-
-
 
 
 void Game::updateMousePos()
