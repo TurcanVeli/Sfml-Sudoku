@@ -1,1 +1,8 @@
 # Sfml-Sudoku
+
+![til](./sfml-sudoku.gif)
+
+My first Sfml project.
+
+There is nothing clever. I used backtracking algorith to solve sudoku. ıt means brute-force.
+
