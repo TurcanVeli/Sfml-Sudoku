@@ -1,0 +1,117 @@
+﻿  Button.cpp
+  Game.cpp
+C:\Users\velit\Desktop\Sfml-Sudoku\sudoku\Game.cpp(84,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\velit\Desktop\Sfml-Sudoku\sudoku\Game.cpp(84,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\velit\Desktop\Sfml-Sudoku\sudoku\Game.cpp(106,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\velit\Desktop\Sfml-Sudoku\sudoku\Game.cpp(106,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\velit\Desktop\Sfml-Sudoku\sudoku\Game.cpp(153,20): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\velit\Desktop\Sfml-Sudoku\sudoku\Game.cpp(229,78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\velit\Desktop\Sfml-Sudoku\sudoku\Game.cpp(229,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\velit\Desktop\Sfml-Sudoku\sudoku\Game.cpp(232,92): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\velit\Desktop\Sfml-Sudoku\sudoku\Game.cpp(232,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\velit\Desktop\Sfml-Sudoku\sudoku\Game.cpp(235,149): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\velit\Desktop\Sfml-Sudoku\sudoku\Game.cpp(235,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Sudoku.cpp
+C:\Users\velit\Desktop\Sfml-Sudoku\sudoku\Sudoku.cpp(73,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\velit\Desktop\Sfml-Sudoku\sudoku\Sudoku.cpp(107,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\velit\Desktop\Sfml-Sudoku\sudoku\Sudoku.cpp(116,29): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+sfml-graphics-s-d.lib(Transformable.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Transformable.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Shape.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Shape.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Font.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Font.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RectangleShape.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RectangleShape.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderTarget.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RenderTarget.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Text.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Text.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderStates.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RenderStates.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Color.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Color.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(VertexArray.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(VertexArray.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderWindow.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RenderWindow.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Transform.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Transform.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Texture.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Texture.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Image.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Image.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(View.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(View.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(BlendMode.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(BlendMode.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Vertex.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Vertex.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Shader.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Shader.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(VertexBuffer.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(VertexBuffer.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(GLExtensions.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(GLExtensions.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(GLCheck.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(GLCheck.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderTextureImplFBO.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RenderTextureImplFBO.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(TextureSaver.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(TextureSaver.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(ImageLoader.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(ImageLoader.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Glsl.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Glsl.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderTextureImpl.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RenderTextureImpl.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(Mouse.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Mouse.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(VideoMode.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(VideoMode.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(WindowBase.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(WindowBase.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(Window.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Window.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(Context.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Context.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(GlResource.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(GlResource.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(InputImpl.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(InputImpl.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(VideoModeImpl.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(VideoModeImpl.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(Cursor.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Cursor.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(WindowImpl.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(WindowImpl.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(GlContext.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(GlContext.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(CursorImpl.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(CursorImpl.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(JoystickManager.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(JoystickManager.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(SensorManager.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(SensorManager.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(WindowImplWin32.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(WindowImplWin32.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(VulkanImplWin32.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(VulkanImplWin32.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(WglContext.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(WglContext.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(Joystick.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Joystick.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(JoystickImpl.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(JoystickImpl.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(SensorImpl.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(SensorImpl.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(String.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(String.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Err.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Err.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Mutex.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Mutex.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Lock.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Lock.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Time.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Time.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Clock.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Clock.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Sleep.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Sleep.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(ThreadLocal.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(ThreadLocal.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(MutexImpl.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(MutexImpl.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(ClockImpl.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(ClockImpl.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(SleepImpl.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(SleepImpl.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(ThreadLocalImpl.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(ThreadLocalImpl.obj)' or at ''; linking object as if no debug info
+  sudoku.vcxproj -> C:\Users\velit\Desktop\Sfml-Sudoku\x64\Debug\sudoku.exe
