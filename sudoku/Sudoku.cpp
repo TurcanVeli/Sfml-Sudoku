@@ -227,7 +227,7 @@ void Sudoku::fillTruthBoard()
 				temp->push_back(false);
 			}
 		}
-		this->Truthboard->push_back(*temp);//There is important
+		this->Truthboard->push_back(*temp);
 		temp->clear();
 
 	}

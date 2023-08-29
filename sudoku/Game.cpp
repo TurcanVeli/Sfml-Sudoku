@@ -74,7 +74,6 @@ bool Game::loadFont()
 
 
 //Set numbers to text value
-//Fonksion ismi değişecek
 void Game::setupTexts()
 {
 	this->number.setFont(this->font);
